@@ -17,15 +17,14 @@ icon: icon-html
 
 ## Tableau Cheat Sheet
 
-1. Tableau SummaryCheatsheet 
-
 [PDF link](https://ellenguo0928.github.io/my-git-home/static/assets/files/tableau-cheat-sheet.pdf)
  
 <!-- Embed PDF File -->
 <iframe src="https://ellenguo0928.github.io/my-git-home/static/assets/files/tableau-cheat-sheet.pdf" style="width:1000px; height:800px;" frameborder="0" allowfullscreen></iframe>
 
 
-2. Tableau Desktop Basics cheatsheet
+## Tableau Desktop Basic cheatsheet
+
 
 [PDF link](https://ellenguo0928.github.io/my-git-home/static/assets/files/tableau-desktop-basics.pdf)
  

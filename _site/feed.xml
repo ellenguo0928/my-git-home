@@ -5,8 +5,8 @@
     <description>Ellen Guo's blog,use Jekyll and github pages.</description>
     <link>http://localhost:4000/my-git-home/</link>
     <atom:link href="http://localhost:4000/my-git-home/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Apr 2022 15:37:05 -0400</pubDate>
-    <lastBuildDate>Mon, 11 Apr 2022 15:37:05 -0400</lastBuildDate>
+    <pubDate>Mon, 11 Apr 2022 17:29:44 -0400</pubDate>
+    <lastBuildDate>Mon, 11 Apr 2022 17:29:44 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -21,18 +21,12 @@
 
 &lt;h2 id=&quot;tableau-cheat-sheet&quot;&gt;Tableau Cheat Sheet&lt;/h2&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Tableau SummaryCheatsheet&lt;/li&gt;
-&lt;/ol&gt;
-
 &lt;p&gt;&lt;a href=&quot;https://ellenguo0928.github.io/my-git-home/static/assets/files/tableau-cheat-sheet.pdf&quot;&gt;PDF link&lt;/a&gt;&lt;/p&gt;
 
 &lt;!-- Embed PDF File --&gt;
 &lt;iframe src=&quot;https://ellenguo0928.github.io/my-git-home/static/assets/files/tableau-cheat-sheet.pdf&quot; style=&quot;width:1000px; height:800px;&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Tableau Desktop Basics cheatsheet&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h2 id=&quot;tableau-desktop-basic-cheatsheet&quot;&gt;Tableau Desktop Basic cheatsheet&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://ellenguo0928.github.io/my-git-home/static/assets/files/tableau-desktop-basics.pdf&quot;&gt;PDF link&lt;/a&gt;&lt;/p&gt;
 
@@ -54,14 +48,13 @@
         <title>Useful Python Learning Material</title>
         <description>&lt;h1 id=&quot;python-learning-material&quot;&gt;Python Learning Material&lt;/h1&gt;
 
-&lt;h2 id=&quot;1--python-data-scientist-cheatsheet&quot;&gt;1.  Python Data Scientist Cheatsheet&lt;/h2&gt;
+&lt;h2 id=&quot;python-data-scientist-cheatsheet&quot;&gt;Python Data Scientist Cheatsheet&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://ellenguo0928.github.io/my-git-home/static/assets/files/python-ds-cheatsheets.pdf&quot;&gt;PDF link&lt;/a&gt;&lt;/p&gt;
 
 &lt;!-- Embed PDF File --&gt;
 &lt;iframe src=&quot;https://ellenguo0928.github.io/my-git-home/static/assets/files/python-ds-cheatsheets.pdf&quot; style=&quot;width:1000px; height:800px;&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;2&quot;&gt;2.&lt;/h2&gt;
 </description>
         <pubDate>Sun, 11 Apr 2021 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/my-git-home/python/2021/04/11/python-learning.html</link>

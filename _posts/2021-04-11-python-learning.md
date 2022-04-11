@@ -11,11 +11,12 @@ icon: icon-html
 
 # Python Learning Material
 
-## 1.  Python Data Scientist Cheatsheet
+
+## Python Data Scientist Cheatsheet
 
 [PDF link](https://ellenguo0928.github.io/my-git-home/static/assets/files/python-ds-cheatsheets.pdf)
  
 <!-- Embed PDF File -->
 <iframe src="https://ellenguo0928.github.io/my-git-home/static/assets/files/python-ds-cheatsheets.pdf" style="width:1000px; height:800px;" frameborder="0" allowfullscreen></iframe>
 
-## 2. 
+

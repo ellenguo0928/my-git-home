@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>http://localhost:4000/my-git-home/tableau/2022/04/11/tableau-learning.html</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/my-git-home/python/2021/04/11/python-learning.html</loc>
+    </url>
+
+
+    <url>
+        <loc>http://localhost:4000/my-git-home/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/my-git-home/blog/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/my-git-home/static/css/custom.css</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/my-git-home/feed.xml</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/my-git-home/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/my-git-home/python/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/my-git-home/robots.txt</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/my-git-home/search.json</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/my-git-home/sitemap.xml</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/my-git-home/tableau/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/my-git-home/assets/css/style.css</loc>
+    </url>
+
+</urlset>

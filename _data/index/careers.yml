@@ -1,60 +1,61 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: University of Denver
+    detail: Wasatch Electric, a Division of Dynalectric Co.
     i18n: company_a
   desc:
-    detail: 
+    detail: 1. Oversaw proposal planning and administration of contracts for up to 10 projects weekly.<br/>
+            2. Implemented company-wide Business Opportunity Log and Bid Tracking System, leading to a sharp reduction of unnecessary staff meetings.<br/>
+            3. Produced labor productivity reports in coordination with Project Managers to cut costs on current and future projects.<br/>
+            4. Analyzed blueprints, construction drawings and material and labor requirements to prepare project estimates using MC2.<br/>
+            5. Slashed construction cost by 15% on average by negotiating with subcontractors and vendors.<br/>
+            6. Ensured contractor complies with owner specifications and government regulations.
     i18n: company_a_desc
   date:
-    detail: Sep. 2013 - Jun. 2014
+    detail: Oct. 2014 - Dec. 2015
     i18n: company_a_date
   job:
-    detail: Intern
+    detail: Administrative Assistant
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Wasatch Electric
+    detail: Select Portfolio Servicing, Inc.
     i18n: company_b
   desc:
-    detail: 
+    detail: 1. Managed 12 investor custodial bank accounts with an active loan pool of 20K and 150K loans.<br/>
+            2. Spearheaded whole loan pool reporting as primary contact for Credit Suisse.<br/>
+            3. Reconciled and analyzed servicer’s data files and resolving data discrepancies during transfer. <br/>
+            4. Compiled monthly reports and department metrics to reach decisions on charge-off and stop advance approvals. <br/>
+            5. Cooperated with different departments to resolve investor questions timely and accurately and offer recommendations to investors and trustees. 
     i18n: company_b_desc
   date:
-    detail: Sep. 2014 - Dec. 2015
+    detail: Jan. 2016 - Aug. 2021
     i18n: company_b_date
   job:
-    detail: Contract Administrator
+    detail: Senior Investor Reporting Analyst
     i18n: company_b_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Select Portfolio Servicing
+    detail: Select Portfolio Servicing, Inc.
     i18n: company_c
   desc:
-    detail:  
+    detail:  1. Oversee reporting process for securitization and investor reporting. Proactively identify data quality and integrity issues that affect the accuracy of reporting. <br/>
+             2. Ensure that the staff is adequately trained and any cross training necessary to promote segregation of duties is complete and fully implemented.<br/>
+             3. Create VBA macros to automate monthly reporting. <br/>
+             4. Expedite accurate and timely remittances for all bank investors.<br/>
+             5. Review department operational procedures to identify and implement projects to reduce operational and FTE expenses and increase productivity.<br/>
+             6. Interact with other departmental managers to ensure new servicing/reporting requirements are in place and functioning as expected.
     i18n: company_c_desc
   date:
-    detail: Jan. 2016 - Feb. 2022
+    detail: Aug. 2021 - Present
     i18n: company_c_date
   job:
     detail: Investor Reporting Manager
     i18n: company_c_job
   icon: fa-plus-square
 
-- name:
-    detail: Lamar Advertising Company
-    i18n: company_d
-  desc:
-    detail: 
-    i18n: company_d_desc
-  date:
-    detail: Jan. 2022 - Present
-    i18n: company_d_date
-  job:
-    detail: Financial Analyst
-    i18n: company_d_job
-  icon: fa-plus-square
 
